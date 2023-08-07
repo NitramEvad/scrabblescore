@@ -1,13 +1,13 @@
 <h1 align="center">Scrabblescore</h1>
 <h3 align="center">a peace-keeping app</h2>
-<img src="1.jpg" alt=""A DALL-E produced image" width="100%" align="center" />
+<img src="DALL·E 2023-08-07 21.37.05 - a game of Scrabble played between a new zealand turtle and a water buffalo.png" alt=""A DALL-E produced image" width="100%" align="center" />
 <!--
 <a href="https://www.tookay.net/">
 <img src="chase_cam.jpg" alt="A DALL-E produced image" width="100%" align="center" />
 </a>
 -->
 
-# scrabblescore
+# Scrabblescore
 Scoring app for Scrabble...hopefully putting an end to cheating allegations!
 
 After many an accusation of improper score-keeping during alcohol assisted Scrabble games, and further claims of improprietry over the use of dictionaries, I decided to the put the issue to rest and build an app to prevent a diplomatic incident.
